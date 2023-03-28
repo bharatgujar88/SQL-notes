@@ -11,3 +11,5 @@ Q. Write a query to display city name which are not starting from vowels.
 Q.Display employees having salary less than 2400 and hiring year greater than 2005. 
 
 (Create new table according to que)
+
+done.
