@@ -1,0 +1,13 @@
+Q. How to display employees whose salary between 15000 and 25000 without using between operators?
+
+Q. Display employees whose COMMISION_PCT (col name)is other than 0.10.
+
+Q. Display the list of employees having first name ‘David’ or ‘Diana’ without using 'LIKE'.
+
+Q. dispaly students name who are out of maharashta and they are using lang mostly English and hindi
+
+Q. Write a query to display city name which are not starting from vowels.
+
+Q.Display employees having salary less than 2400 and hiring year greater than 2005. 
+
+(Create new table according to que)
